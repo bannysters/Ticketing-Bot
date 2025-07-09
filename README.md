@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository to your local machine or download the folder if you know what you're doing
 ```
-git clone https://github.com/yourusername/discord-ticketing-bot.git
+git clone https://github.com/bannysers/Ticketing-Bot
 ```
 
 2. Configure the bot by editing the `config.json` file. (refer to [configuration](#configuration))
